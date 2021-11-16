@@ -7,3 +7,7 @@ body {
   color: darkblue;
   background-color: darkgrey;
 }
+#backgroundimg {
+  height: 200px;
+  width: 100%;
+}
